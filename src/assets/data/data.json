@@ -1,0 +1,16 @@
+{
+    "students" : [
+        {
+            "name" : "eu",
+            "virsta" : 12
+        },
+        {
+            "name" : "tu",
+            "virsta" : 12
+        },
+        {
+            "name" : "pisiun",
+            "virsta" : 12
+        }
+    ]
+}
